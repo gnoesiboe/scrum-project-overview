@@ -1,4 +1,6 @@
-# Webpack React / Redux / ECMA6 boostrap
+# SCRUM project overview
+
+@todo
 
 ## Getting started
 
